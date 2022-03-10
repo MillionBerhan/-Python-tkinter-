@@ -1,1 +1,1 @@
-# -Python-tkinter-
+7 - Schakel in, schakel uit, schakel over!
